@@ -1,0 +1,7 @@
+/home/drakonchik/SNESDevelopment/superfamiconv/SuperFamiconv-0.10.0/CMakeFiles/superfamiconv.dir
+/home/drakonchik/SNESDevelopment/superfamiconv/SuperFamiconv-0.10.0/CMakeFiles/edit_cache.dir
+/home/drakonchik/SNESDevelopment/superfamiconv/SuperFamiconv-0.10.0/CMakeFiles/rebuild_cache.dir
+/home/drakonchik/SNESDevelopment/superfamiconv/SuperFamiconv-0.10.0/CMakeFiles/list_install_components.dir
+/home/drakonchik/SNESDevelopment/superfamiconv/SuperFamiconv-0.10.0/CMakeFiles/install.dir
+/home/drakonchik/SNESDevelopment/superfamiconv/SuperFamiconv-0.10.0/CMakeFiles/install/local.dir
+/home/drakonchik/SNESDevelopment/superfamiconv/SuperFamiconv-0.10.0/CMakeFiles/install/strip.dir
